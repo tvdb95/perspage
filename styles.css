@@ -18,7 +18,8 @@
   font-size: 18px;
 }
 
-.videoWrap {
+.my-video {
+  background-color: honeydew;
   display: flex;
   align-items: center;
   justify-content: center;
