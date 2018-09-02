@@ -18,7 +18,8 @@
   font-size: 18px;
 }
 
-.my-video {
-  margin-left: auto;
-  margin-right: auto;
+.videoWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
