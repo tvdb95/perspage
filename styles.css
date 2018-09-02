@@ -1,0 +1,24 @@
+.title-bg {
+  padding: 200px;
+  background: url("titel.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.title-h1 {
+  color: MediumVioletRed ;
+  font-family: 'Lobster', cursive;
+  font-size: 150px;
+}
+
+.about-bg {
+  padding: 100px;
+  background-color: #ffffe6;
+  font-family: 'Raleway';
+  font-size: 18px;
+}
+
+.my-video {
+  margin-left: auto;
+  margin-right: auto;
+}
