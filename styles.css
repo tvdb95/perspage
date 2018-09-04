@@ -6,7 +6,7 @@
 }
 
 .title-h1 {
-  color: DarkSeaGreen ;
+  color: DarkSlateGrey ;
   font-family: 'Arial';
   font-size: 80px;
 }
@@ -19,7 +19,7 @@
 }
 
 .my-video {
-  background-color: honeydew;
+  background-color: DarkSeaGreen;
   display: flex;
   align-items: center;
   justify-content: center;
